@@ -13,7 +13,7 @@ permute(vector)
 Vector of permutations in lexicographic order.
 }
 \description{
-Get all permutations of given vector in lexicographic order using Knuth's algorithm (The Art of Computer Programming, V4, 7.2.1.2).
+Gets all permutations of given vector in lexicographic order using Knuth's algorithm (The Art of Computer Programming, V4, 7.2.1.2).
 }
 \examples{
 v <- c(1,2,3)

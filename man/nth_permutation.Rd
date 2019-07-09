@@ -15,7 +15,7 @@ nth_permutation(vector, nth)
 The nth permutation of the given vector.
 }
 \description{
-Get the nth lexicographic permutation of a vector. Adaptation of Knuth's algorithm for generating all permutations (The Art of Computer Programming, V4, 7.2.1.2).
+Gets the nth lexicographic permutation of a vector. Adaptation of Knuth's algorithm for generating all permutations (The Art of Computer Programming, V4, 7.2.1.2).
 }
 \examples{
 v <- c(1,2,3)

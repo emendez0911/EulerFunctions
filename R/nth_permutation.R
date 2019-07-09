@@ -1,6 +1,6 @@
 #' Nth Lexicographic Permutation
 #'
-#' Get the nth lexicographic permutation of a vector. Adaptation of Knuth's algorithm for generating all permutations (The Art of Computer Programming, V4, 7.2.1.2).
+#' Gets the nth lexicographic permutation of a vector. Adaptation of Knuth's algorithm for generating all permutations (The Art of Computer Programming, V4, 7.2.1.2).
 #'
 #' @param vector A vector.
 #' @param nth A number indicating the requested nth permutation of \code{vector}.

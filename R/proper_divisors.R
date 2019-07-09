@@ -1,6 +1,6 @@
 #' Proper divisors
 #'
-#' Get proper divisors of a number n, i.e. numbers below n that divide evenly into n.
+#' Gets proper divisors of a number n, i.e. numbers below n that divide evenly into n.
 #' @param number A number.
 #' @return An ordered vector of proper divisors.
 #' @export

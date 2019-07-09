@@ -13,7 +13,7 @@ reversed_number(number)
 Reverse of number.
 }
 \description{
-Return the reverse of a given number, i.e. same number but read from right to left.
+Returns the reverse of a given number, i.e. same number but read from right to left.
 }
 \examples{
 reversed_number(1423)

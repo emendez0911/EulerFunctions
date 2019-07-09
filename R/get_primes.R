@@ -1,6 +1,6 @@
 #' Get primes below number
 #'
-#' Get primes using simple Sieve of Eratosthenes algorithm.
+#' Gets primes using simple Sieve of Eratosthenes algorithm.
 #' @param upper_limit Number to which to generate primes.
 #' @return Vector of primes numbers below given limit (also included if prime).
 #' @keywords primes

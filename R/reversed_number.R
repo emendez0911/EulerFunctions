@@ -1,6 +1,6 @@
 #' Reverse of a number
 #'
-#' Return the reverse of a given number, i.e. same number but read from right to left.
+#' Returns the reverse of a given number, i.e. same number but read from right to left.
 #' @param number A number.
 #' @return Reverse of number.
 #' @export

@@ -15,7 +15,7 @@ prime_factors(number, primes)
 Vector of primes factors.
 }
 \description{
-Get prime factors of given number using a list of prime numbers.
+Gets prime factors of given number using a list of prime numbers.
 }
 \examples{
 primes <- get_primes(100)

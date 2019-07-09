@@ -1,6 +1,6 @@
 #' Lexicographic permutations
 #'
-#' Get all permutations of given vector in lexicographic order using Knuth's algorithm (The Art of Computer Programming, V4, 7.2.1.2).
+#' Gets all permutations of given vector in lexicographic order using Knuth's algorithm (The Art of Computer Programming, V4, 7.2.1.2).
 #'
 #' @param vector A vector of elements to permute.
 #' @return Vector of permutations in lexicographic order.

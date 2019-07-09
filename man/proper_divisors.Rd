@@ -13,7 +13,7 @@ proper_divisors(number)
 An ordered vector of proper divisors.
 }
 \description{
-Get proper divisors of a number n, i.e. numbers below n that divide evenly into n.
+Gets proper divisors of a number n, i.e. numbers below n that divide evenly into n.
 }
 \examples{
 proper_divisors(100)

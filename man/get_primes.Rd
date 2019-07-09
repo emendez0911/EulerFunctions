@@ -13,7 +13,7 @@ get_primes(upper_limit)
 Vector of primes numbers below given limit (also included if prime).
 }
 \description{
-Get primes using simple Sieve of Eratosthenes algorithm.
+Gets primes using simple Sieve of Eratosthenes algorithm.
 }
 \examples{
 get_primes(100)

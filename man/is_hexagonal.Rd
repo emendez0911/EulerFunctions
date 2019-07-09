@@ -13,7 +13,7 @@ is_hexagonal(h)
 \code{TRUE} if hexagonal, \code{FALSE} if not.
 }
 \description{
-Checks if number is hexagonal, based on formula Pn = n(3n−1)/2.
+Checks if number is hexagonal, based on formula Hn = n(2n−1).
 }
 \examples{
 is_hexagonal(15)

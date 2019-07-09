@@ -1,6 +1,6 @@
 #' Hexagonal number test
 #'
-#' Checks if number is hexagonal, based on formula Pn = n(3n−1)/2.
+#' Checks if number is hexagonal, based on formula Hn = n(2n−1).
 #' @param h A number.
 #' @return \code{TRUE} if hexagonal, \code{FALSE} if not.
 #' @export
