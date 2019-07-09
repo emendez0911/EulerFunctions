@@ -17,7 +17,7 @@ devtools::install_github('emendez0911/EulerFunctions')
 The functions available are:
 
 | Function name        | Description                                                       |
-| -------------------- | -----------------------------------------------------------------:|
+| -------------------- | ----------------------------------------------------------------- |
 | get_primes           | Gets primes using simple Sieve of Eratosthenes algorithm.         |
 | greatest_common_div  | Gets greatest common divisor of two numbers.                      |
 | is_hexagonal         | Checks if number is hexagonal, based on formula Hn = n(2n−1).     |
