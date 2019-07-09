@@ -1,0 +1,11 @@
+Package: EulerFunctions
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.1.0
+Author: Erwin Mendez
+Maintainer: Erwin Mendez <erwinmendez.it@gmail.com>
+Description: This package contains some functions used to solve Project Euler problems using R.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
