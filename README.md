@@ -40,5 +40,5 @@ The functions available are:
 
 This is my first GitHub repo, so I would love to get some feedback on this. Feel free to drop any suggestions you might have to help me improve this and learn even more about R Programming.
 
-I might go back to this in the future, as a keep solving more problems just for the fun of it. 
+I might come back to this in the future, as a keep solving more problems just for the fun of it. 
 
